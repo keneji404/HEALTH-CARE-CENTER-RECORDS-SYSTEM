@@ -10,4 +10,4 @@ The sole purpose of this system is simple, it aims to ease the hassle that almos
 
 SCREENSHOTS:
 
-<img src="/keneji404/HEALTH-CARE-CENTER-RECORDS-SYSTEM/blob/ee542e42170cef8e3bb8538bd92f9fddfd8967ac/imgs/Picture1.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+https://github.com/keneji404/HEALTH-CARE-CENTER-RECORDS-SYSTEM/blob/main/imgs/Picture1.png?raw=true

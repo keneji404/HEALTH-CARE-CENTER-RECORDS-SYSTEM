@@ -6,14 +6,4 @@ As we make this program, we were really enjoying specially in designing the User
 
 About the company and Logo, we were inspired by one of our favorite game, the company called Umbrella Corp. but I tuned it a bit to make it more health friendly to our vision, that’s why we picked the greenish color. 
 
-The sole purpose of this system is simple, it aims to ease the hassle that almost every health center in every place within this country are undergoing, and what we mean is to look at the state of almost every health center in every barangay, some of which are doing records of every patients manually thus making them to exert more effort in such a simple chore and leaving other works with a little time, so to give aid to all of the Health Center workers we decided to make a system that could help them even in such a small way. 
-
-Screenshots:
-
-<img width="421" height="424" alt="image" src="https://github.com/user-attachments/assets/0a6c4abc-7e09-4ab0-9d31-18f04098bbc5" />
-
-<img width="931" height="716" alt="image" src="https://github.com/user-attachments/assets/0bd04db8-2092-484d-ba5d-000699eb7083" />
-
-<img width="931" height="380" alt="image" src="https://github.com/user-attachments/assets/be6fb776-f07a-4ba8-8ecb-555dc9286183" />
-
-<img width="203" height="206" alt="image" src="https://github.com/user-attachments/assets/28944bea-42f8-4fab-8ee9-e87c1c20c6b8" />
+The sole purpose of this system is simple, it aims to ease the hassle that almost every health center in every place within this country are undergoing, and what we mean is to look at the state of almost every health center in every barangay, some of which are doing records of every patients manually thus making them to exert more effort in such a simple chore and leaving other works with a little time, so to give aid to all of the Health Center workers we decided to make a system that could help them even in such a small way.

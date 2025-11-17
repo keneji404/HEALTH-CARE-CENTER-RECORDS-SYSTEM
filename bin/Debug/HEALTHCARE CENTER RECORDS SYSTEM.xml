@@ -1,0 +1,166 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HEALTHCARE CENTER RECORDS SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources._15_159991_medicine_clipart_medicine_box_medicine_logo_png_transparent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources._15_159991_medicine_clipart_medicine_box_medicine_logo_png_transparent1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.add_photo_icon_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.Artboard_9_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.Asset_8_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.back_icon_black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.back_icon_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.back_icon_cartoon2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.clinic_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.exit_button_png_button_cancel_close_delete_exit_remove_stop_x_icon_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.exit1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.exit2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.forgot_pass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.forgot_password_icon_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.hide_password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.Male_Doctor_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.minimize1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.minimize2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.patient_records_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.pngtube_com_admin_png_3919167">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.pngtube1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.print_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.profile_avatar_png_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.show_password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.umbrella_clinic_final">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.user_14_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HEALTHCARE_CENTER_RECORDS_SYSTEM.My.Resources.Resources.user_14_512_cropped">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

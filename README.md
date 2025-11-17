@@ -7,3 +7,7 @@ As we make this program, we were really enjoying specially in designing the User
 About the company and Logo, we were inspired by one of our favorite game, the company called Umbrella Corp. but I tuned it a bit to make it more health friendly to our vision, that’s why we picked the greenish color. 
 
 The sole purpose of this system is simple, it aims to ease the hassle that almost every health center in every place within this country are undergoing, and what we mean is to look at the state of almost every health center in every barangay, some of which are doing records of every patients manually thus making them to exert more effort in such a simple chore and leaving other works with a little time, so to give aid to all of the Health Center workers we decided to make a system that could help them even in such a small way.
+
+SCREENSHOTS:
+
+<img src="/keneji404/HEALTH-CARE-CENTER-RECORDS-SYSTEM/blob/ee542e42170cef8e3bb8538bd92f9fddfd8967ac/imgs/Picture1.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
